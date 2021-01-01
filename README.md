@@ -3,7 +3,7 @@
 This is a [Frontend Mentor](https://www.frontendmentor.io/) free challange. 
 I only have jpg files.
 
-Vercel Link: https://manage-landing-page-iota.vercel.app/
+Vercel Link: https://manage-landing-page-tan.vercel.app
 
 ## Challange
 
