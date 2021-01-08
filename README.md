@@ -15,9 +15,6 @@ Vercel Link: https://manage-landing-page-tan.vercel.app
   
 - I used HTML, CSS, SASS as pre-processor and a little bit of JavaScript.
 
-- The designs were created to the following widths:
-  * Mobile: 375px
-  * Desktop: -
 
 ## Design Files
 
